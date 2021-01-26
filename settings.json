@@ -1,0 +1,11 @@
+{
+    "voteCount": 1,
+    "selectors": {
+        "boardTitleIdentifier": "#board-name",
+        "messageColumn": ".message-list",
+        "columnHeader": ".column-header",
+        "messageContainer": ".message-main",
+        "messageText": ".message-body .text",
+        "messageVotes": ".votes .vote-area span.show-vote-count"
+    }
+}
